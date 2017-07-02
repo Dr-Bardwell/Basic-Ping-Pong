@@ -1,0 +1,9 @@
+c:\users\bardwell\documents\visual studio 2017\Projects\GAme1\GAme1\bin\Debug\GAme1.exe.config
+c:\users\bardwell\documents\visual studio 2017\Projects\GAme1\GAme1\bin\Debug\GAme1.exe
+c:\users\bardwell\documents\visual studio 2017\Projects\GAme1\GAme1\bin\Debug\GAme1.pdb
+c:\users\bardwell\documents\visual studio 2017\Projects\GAme1\GAme1\obj\Debug\GAme1.csprojResolveAssemblyReference.cache
+c:\users\bardwell\documents\visual studio 2017\Projects\GAme1\GAme1\obj\Debug\GAme1.Form1.resources
+c:\users\bardwell\documents\visual studio 2017\Projects\GAme1\GAme1\obj\Debug\GAme1.Properties.Resources.resources
+c:\users\bardwell\documents\visual studio 2017\Projects\GAme1\GAme1\obj\Debug\GAme1.csproj.GenerateResource.Cache
+c:\users\bardwell\documents\visual studio 2017\Projects\GAme1\GAme1\obj\Debug\GAme1.exe
+c:\users\bardwell\documents\visual studio 2017\Projects\GAme1\GAme1\obj\Debug\GAme1.pdb
